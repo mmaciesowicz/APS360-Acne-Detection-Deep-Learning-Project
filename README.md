@@ -1,2 +1,9 @@
 # APS360-Acne-Detection-Deep-Learning-Project
-This is a project for APS360 - Fundamentals of Deep Learning diagnosing acne types (if any), given an image of a face.
+
+Motivation: 
+  1) Assessing the severity of acne on a patient's face, and determining the location of such skin irregularities.
+  2) Improving the condition of publicly available datasets on acne.
+
+Models Created: 
+  1) CNN for assessing the severity of acne on a 4 point scale.
+  2) RCNN for determining the location of skin irregularities.
